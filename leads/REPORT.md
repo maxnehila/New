@@ -37,4 +37,56 @@ Each account was scored on four weighted dimensions:
 
 ## Top 30 Deep-Dive (web-verified)
 
-_Research pending — populated below._
+### 1. Icon — ❌ DISQUALIFY
+Stale record. The LinkedIn URL points to Aptiv Solutions, acquired by ICON plc (~40,000-EE global CRO) in 2014. The Marlborough, MA office is just one ICON plc site; HR/payroll is enterprise-level. Purge or re-map this record.
+
+### 2. Arena AI — 🔥 STRONG
+Independent, NYC, ~166 EE. AI foundation models for electronic-hardware testing (customers: AMD, Bausch + Lomb). **$30M Series B (Apr 2025, Initialized; $62M total)** and ~29 open roles in mid-2026 — including a Technical Recruiter and EA, classic signs of scaling without mature People infrastructure. No visible Head of People, no HRIS named in postings. Prime timing for an HRIS/payroll consolidation pitch.
+
+### 3. Touchstorm — ✅ GOOD
+Independent (Diginary Holdings), "The YouTube Agency" — video marketing for Toyota, T-Mobile, Gillette. HQ actually NYC with finance/HR in Richmond, VA. Headcount soft (~68 vs. 103 in CRM) and CRO departed, but **~100 staff across 26 countries** including a large India org — a textbook Rippling Global/EOR pain point for a small HR team. Lead with global payroll/EOR.
+
+### 4. Autobooks — 🔥 STRONG
+Detroit fintech embedding SMB invoicing/payments inside bank platforms. **$40M growth investment (Runway, May 2025) plus two acquisitions in 12 months** (Allied Payment Network, MinuteLender) — meaning a multi-state, multi-entity workforce being stitched together right now, likely across 3 payroll systems. Best timing trigger in the list: lead with M&A/entity consolidation.
+
+### 5. MultiAd — ❌ DISQUALIFY
+Defunct as independent entity: acquired by SGS International, then its Kwikee asset sold to Syndigo (2020). multiad.com redirects to syndigo.com. HR runs through Syndigo corporate. Remove from CRM.
+
+### 6. Litmus — ❌ DISQUALIFY
+Acquired by Validity (Apr 2025) and being folded into its platform; HR/payroll consolidating into Validity's stack. Dead as a standalone buyer.
+
+### 7. Bio-Optronics — ❌ DISQUALIFY
+Acquired by Advarra (PE-backed, 1,000+ EE) in March 2021. HR/payroll consolidated into Advarra's enterprise stack. Remove from CRM.
+
+### 8. Io.net — 🔥 STRONG
+Independent. Decentralized GPU cloud for AI compute; $40M raised (Hack VC/Solana Labs/OKX), new CEO installed Apr 2025, fresh product launches through early 2026. ~90-person **fully remote, multi-jurisdiction workforce** with no visible Head of People or HR roles — classic fit for unified HR/IT/global payroll plus device management for remote staff. Caveat: crypto-sector volatility.
+
+### 9. Fishbowl — ❌ DISQUALIFY
+Acquired by Glassdoor (Recruit Holdings) in Sept 2021; now "Fishbowl by Glassdoor." No independent HRIS buying decision exists.
+
+### 10. Forj — ✅ GOOD
+Independent, Milwaukee, ~60 EE, $28M raised. Member-experience platform for associations — itself **stitched together from 3 companies** (Web Courseworks merger, Mobilize acquisition) with staff across 4 continents; new CFO and CRO hired for growth. Likely fragmented HR/payroll post-M&A — strong consolidation pitch. Slower hiring tempo keeps it at GOOD.
+
+### 11. FundGuard — ✅ GOOD
+Independent, 177 EE. AI investment-accounting platform; **$100M Series C (Mar 2024, ~$400M valuation)** with offices in NY, Boston, London, Toronto, and Tel Aviv. Strong global payroll/EOR + US HRIS story. Caveats: Israeli HQ may mean the people decision-maker sits in Tel Aviv and local payroll vendors are entrenched; hiring tempo moderate.
+
+### 12. Kriptos — ⚠️ WEAK
+Operating but partially stale record: real HQ is Quito, Ecuador (~34 actual EE vs. 67 in CRM); LatAm-centric banking customer base, no funding since 2022, no hiring momentum. Low likelihood of a US HRIS purchase — deprioritize.
+
+### 13. ThinkCERCA — ✅ GOOD
+Independent, Chicago, ~55 EE. K-12 literacy platform with new gen-AI grading features. Remote-friendly with distributed staff and part-time/contract scorers in multiple states — real payroll/compliance pain. No visible People leadership, likely greenfield HRIS. Tempered by no new funding since 2017 (budget sensitivity).
+
+### 14. Highway.ai (MBS Highway) — ✅ GOOD
+Operating; CRM context: this is **MBS Highway**, rebranded "Highway" after acquiring ListReports (2023). Mortgage/real-estate intelligence SaaS, ~54 EE across **3 continents**. Angle: Rippling Global/EOR plus consolidating two merged entities onto one system. Stable rather than high-growth.
+
+### 15. Territorium — ✅ GOOD
+Independent EdTech (San Antonio + Monterrey + Bogotá), 11M users in 15 countries, UT System partnership. US+Mexico+Colombia footprint is a textbook Rippling Global/EOR pitch. Caveats: much of the 81 EE likely sits in LatAm entities; only ~$4.4M raised.
+
+### 16. Verivo Software — ❌ DISQUALIFY
+Defunct — assets acquired by Appery/Exadel in **2015**. Website dead, LinkedIn page a relic. Purge this record.
+
+### 17. BlueLabs — 🔥 STRONG
+Independent DC analytics firm (Obama-campaign data alumni), ~87 EE and growing: recent senior hires (MD CPG Feb 2026, Head of Data Science), ~15 open roles via Greenhouse, distributed/remote staff. **Has a Director of People Operations and an existing unnamed HRIS to displace** — an identifiable, HR-aware buyer. Top-tier call.
+
+### 18. Origin AI — ❌ DISQUALIFY
+Acquired by ADT for **$170M cash in Feb 2026** (confirmed via SEC 8-K). Team being absorbed into ADT's enterprise stack. Remove from pipeline.
