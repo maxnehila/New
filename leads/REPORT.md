@@ -156,3 +156,28 @@ Operating; rebranded from RMG Networks in 2020, PE-owned, acquired NFS Technolog
 - **Financial services / investment (23):** compliance reporting, SOC2-friendly access controls, M&A entity consolidation (the True North pattern repeats across RIAs).
 - **Advertising / marketing (14):** freelancer + W2 mixes → contractor payments alongside payroll.
 - **Staffing & recruiting (8):** high-volume hiring → onboarding automation is the whole pitch.
+
+---
+
+## Tier 2-and-below Deep-Dive (top 14 web-verified, June 11 2026)
+
+The 14 highest-scoring non-Tier-1 leads were individually researched. Verified top 5:
+
+### 🥇 1. Vivanti Consulting — 143→~194 EE, New York NY (+ DC, Atlanta, London, Australia)
+Data/cloud/AI consultancy founded by Tony Nicol (after selling Servian to Cognizant), self-funded and scaling aggressively. **More open HR roles than at any point in 12 months — they are building their People/onboarding function right now**, with no incumbent HRIS detected. Global US/UK/AU/India footprint = global payroll/EOR + device management for a laptop-heavy consultant workforce. Target the new HR hires and Nicol's office.
+
+### 🥈 2. TotalTek — ~118→~186 EE, Appleton WI (CRM says FL — wrong)
+Minority-owned IT/engineering consultancy (SAP, digital transformation, maritime engineering). Fast headcount growth, **fully remote US workforce** plus offshore staff on 5 continents, new VP of Engineering, active hiring, federal awardee. Multi-state payroll + remote device management pitch.
+
+### 🥉 3. Coranet — ~53 EE, New York NY
+Woman-owned IT infrastructure integrator **operating in all 50 states** with multi-state field technicians. 4x Inc. 5000, top-50 fastest-growing women-owned business, currently hiring, and **Cathy Cammarano newly promoted to CFO** — a fresh economic buyer who likely owns HR/payroll at this size. No enterprise HRIS detected.
+
+### 4. Capitol Forum — ~50 EE, Washington DC
+Bootstrapped investigative news/antitrust analysis publisher; revenue ~$7.5M (2024) → ~$11.2M (2026), ~7 open roles, steady senior editorial hires. Distributed knowledge workforce, no visible HR team — classic all-in-one HRIS entry point. Budget-disciplined (no VC), so lead with consolidation ROI.
+
+### 5. Olon USA (CRM: "Olon Ricerca Bioscience") — ~141+ EE, Concord OH + Florham Park NJ
+Pharma CDMO riding the re-shoring wave: Lake County expansion (+26 jobs, 115 retained, JobsOhio grant), €40M HPAPI investment, ~8 open roles **including an HR Generalist** — the US entity runs its own HR locally. Shift-based manufacturing = time/attendance pain. Risk: Italian parent (Olon S.p.A.) sign-off could slow the deal.
+
+**Honorable mentions:** Remington Medical (GOOD — 132 EE Alpharetta GA medical-device maker, fresh FDA clearance, but no visible trigger), Icode Technologies (GOOD — Farmington Hills MI engineering consultancy with heavy H-1B compliance pain).
+
+**Verified dead/fake in this batch (4 of 14 — 29% staleness again):** Emory Impact Investing Group (student club), Stock Value (phantom entity, HQ is an apartment complex), Gwynnie Bee (parent CaaStle in Chapter 7 after $300M fraud), DigitalSuits (Ukraine dev shop, no US payroll). **Weak:** MK Marketing (~5 real EE family-office arm), RPO Hire (India-based), ISS National Lab (sunsetting mission, zero open roles).
