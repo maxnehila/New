@@ -90,3 +90,21 @@ Independent DC analytics firm (Obama-campaign data alumni), ~87 EE and growing: 
 
 ### 18. Origin AI — ❌ DISQUALIFY
 Acquired by ADT for **$170M cash in Feb 2026** (confirmed via SEC 8-K). Team being absorbed into ADT's enterprise stack. Remove from pipeline.
+
+### 19. Decrypt (DASTAN) — ✅ GOOD
+Operating; merged with Rug Radio in 2024 to form parent **DASTAN** (still a small web3 media startup, not an enterprise). ~57 **fully remote** employees with no central office — multi-state, multi-brand payroll is a textbook Rippling use case. Sell at the DASTAN parent level. Tempered by light hiring and crypto-media revenue volatility.
+
+### 20. Seekr Technologies — 🔥 STRONG
+Independent and scaling fast: **$100M Series C (June 2025) at a $1.2B valuation**, headcount up to ~135, most engineering openings in 12 months, new CMO. Best HR signal in the entire list: **Darcey Villasenor just joined as Chief People Officer** to scale talent — a new, empowered CPO at a freshly funded company is the classic HRIS re-evaluation moment. Act now.
+
+### 21. Rapid Acceleration Partners — ⚠️ WEAK
+Operating, but nearly all roles and staff are in Chennai, India; Irving, TX is a small shell HQ. Tiny addressable US seat count; only angle is Rippling Global/India payroll. Nurture at best.
+
+### 22. True North Advisors — 🔥 STRONG
+Dallas multi-family office, $5.2B AUM, 78 EE, PE-backed (WPCG/HGGC) and a **serial acquirer**: Clear Rock Advisors (Sept 2024) and Blue Investment Partners (June 2025) took them from one office to a TX+CA multi-state footprint, with more M&A likely. Repeated onboarding of acquired staff, benefits mergers, and multi-entity payroll = exactly Rippling's story. No visible HR leader — likely ops/finance-run HR, greenfield.
+
+### 23. B3 Group — ❌ DISQUALIFY
+Acquired by Octo (Jan 2022), which was then acquired by **IBM** (~$1.2B, 2023). Staff now sit inside IBM Consulting federal. Close as acquired/inactive.
+
+### 24. Practifi (CRM name "HR Director" is a data-entry error) — ✅ GOOD
+Independent wealth-management CRM company (~63 EE) split across **Sydney, Chicago, and London** — a genuine tri-country payroll/EOR fit. Internal "Operations and HR" team exists but no named People leader. Downside: no funding since the 2020 Series B, so budget urgency unproven. Fix the account name in your CRM.
