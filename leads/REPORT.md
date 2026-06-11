@@ -181,3 +181,23 @@ Pharma CDMO riding the re-shoring wave: Lake County expansion (+26 jobs, 115 ret
 **Honorable mentions:** Remington Medical (GOOD — 132 EE Alpharetta GA medical-device maker, fresh FDA clearance, but no visible trigger), Icode Technologies (GOOD — Farmington Hills MI engineering consultancy with heavy H-1B compliance pain).
 
 **Verified dead/fake in this batch (4 of 14 — 29% staleness again):** Emory Impact Investing Group (student club), Stock Value (phantom entity, HQ is an apartment complex), Gwynnie Bee (parent CaaStle in Chapter 7 after $300M fraud), DigitalSuits (Ukraine dev shop, no US payroll). **Weak:** MK Marketing (~5 real EE family-office arm), RPO Hire (India-based), ISS National Lab (sunsetting mission, zero open roles).
+
+---
+
+## US-Contactability Revision (June 11 2026)
+
+New qualification lens applied: where do the actual decision-makers sit and work? A US-HQ'd account whose buyers work India/Australia hours is functionally unworkable for a US rep. The `us_contactability` column in the CSV now carries this flag for all researched accounts.
+
+**Key finding — Vivanti Consulting DOWNGRADED from #1 to deprioritized.** The NY (Chrysler Building) HQ is a client-delivery footprint: founder/CEO Tony Nicol sits in **Sydney**, and the HR/People function being built (the very trigger that made them #1) is being hired in **Bengaluru** ("Talent and People Partner," IBC Knowledge Park office). The HRIS decision would be made across Sydney/India timezones. Route to an APAC team or skip.
+
+**Verified clean:** TotalTek (President Brock Bauer + G&A in Appleton WI — and note: ZoomInfo's "$249M revenue / CEO Traversari" data conflates them with an unrelated Ecuadorian Totaltek), Olon USA (named on-site buyers: **Dorothie Okleson, VP Finance** — owns Finance/IT/HR support — and **Monica Thayer, HR Director**, both Concord OH, currently hiring both an HR Manager and an HR Generalist), Icode (likely Michigan owner-operated but fully opaque — cold sequence only).
+
+### Revised Tier-2-and-below Top 5
+
+1. **TotalTek** — STRONG fit + HIGH contactability. Fast-growing, remote US workforce + offshore delivery (a Rippling Global selling point, not a flaw). Call Brock Bauer, Central time.
+2. **Coranet** — STRONG + HIGH. 50-state field workforce, new CFO Cathy Cammarano as economic buyer, NYC.
+3. **Olon USA** — GOOD + HIGH, now with **named buyers and a live trigger**: hiring an HR Manager and HR Generalist simultaneously is an HR-function rebuild — exactly when HRIS gets re-evaluated. Pitch Okleson and Thayer, Eastern time.
+4. **Capitol Forum** — GOOD + HIGH. ~50 EE, revenue up ~50% in two years, DC leadership, no HR team yet.
+5. **Remington Medical** — GOOD + HIGH. 132 EE, Alpharetta GA leadership, US+Asia workforce, product momentum (FDA clearance Nov 2025); weakest trigger of the five but fully US-workable.
+
+Dropped: Vivanti (decision-makers in Sydney/Bengaluru). Icode remains honorable mention (Eastern time but anonymous leadership).
