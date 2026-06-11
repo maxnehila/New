@@ -108,3 +108,51 @@ Acquired by Octo (Jan 2022), which was then acquired by **IBM** (~$1.2B, 2023). 
 
 ### 24. Practifi (CRM name "HR Director" is a data-entry error) — ✅ GOOD
 Independent wealth-management CRM company (~63 EE) split across **Sydney, Chicago, and London** — a genuine tri-country payroll/EOR fit. Internal "Operations and HR" team exists but no named People leader. Downside: no funding since the 2020 Series B, so budget urgency unproven. Fix the account name in your CRM.
+
+### 25. The Digital Economist — ⚠️ WEAK
+Operating, but the 84-EE figure is inflated by 100+ unpaid Executive Fellows; the actual paid core team is likely under 20. A think-tank/fellowship network with little payroll complexity. Low-touch only.
+
+### 26. ClickSquared — ❌ DISQUALIFY
+Acquired by Zeta Interactive (now Zeta Global, public, 2,000+ EE) in **January 2014** — the record is 12+ years stale. Purge.
+
+### 27. Vault Insurance — 🔥 STRONG
+Independent, PE-backed (Cornell Capital + Hudson Structured), ~246 EE and profitable (3rd consecutive year; AM Best outlook revised to stable Nov 2025). High-net-worth insurer **operating in all 50 states** with offices in St. Petersburg, West Palm Beach, and NYC — the textbook multi-state payroll/compliance pitch. No CHRO at exec level, so HR sits below the C-suite; no HRIS identified.
+
+### 28. Credit Union of New Jersey — ⚠️ WEAK
+Operating, accurate record, but single-state, branch-based, heavily regulated, ~4 open branch-level roles, and no trigger events. Long cycle, low urgency — nurture.
+
+### 29. Roots Automation (rebranding to Bevaya) — 🔥 STRONG
+Independent NYC AI-agents-for-insurance company, ~147 EE, $43.9M raised ($22.2M Series B June 2024), customers include 3 of the top-5 P&C carriers. **Mid-rebrand to Bevaya (May 2026)** with 115+ production deployments and active hiring via Ashby — a modern-tooling buyer scaling post-Series B. Possible Series C is a timing trigger.
+
+### 30. Korbyt (fka RMG Networks — CRM name stale) — ✅ GOOD
+Operating; rebranded from RMG Networks in 2020, PE-owned, acquired NFS Technology (Aug 2024, headcount possibly ~375 now), new CEO/CPO/CCO — decisions get revisited under new execs. Offices in TX, UK, and UAE. **Careers portal runs on Paylocity — a known incumbent HRIS to displace.** Lead with Paylocity displacement + global payroll.
+
+---
+
+## Verified call-priority list (from the top 30)
+
+**🔥 Call first — STRONG (8):**
+1. **Seekr Technologies** — $100M Series C at $1.2B + brand-new Chief People Officer; the classic HRIS re-evaluation moment.
+2. **Autobooks** — $40M + two acquisitions in 12 months; live multi-entity payroll consolidation pain.
+3. **Arena AI** — fresh $30M Series B, ~29 open roles, hiring a recruiter, no People leadership.
+4. **True North Advisors** — PE-backed serial acquirer, new TX+CA multi-state footprint, greenfield HR.
+5. **BlueLabs** — growing, ~15 open roles, named Director of People Operations, incumbent HRIS to displace.
+6. **Vault Insurance** — 246 EE across all 50 states, profitable, PE-backed.
+7. **Roots Automation/Bevaya** — post-Series B scaling, mid-rebrand, modern tooling preference.
+8. **Io.net** — well-funded, fully remote multi-jurisdiction workforce, new CEO, no HR function visible.
+
+**✅ Work next — GOOD (9):** Korbyt (Paylocity displacement angle), FundGuard, Forj, Touchstorm, Practifi, Territorium, Highway.ai/MBS Highway, Decrypt/DASTAN, ThinkCERCA. Common thread: global/multi-entity payroll angles, but weaker urgency triggers.
+
+**⚠️ Nurture — WEAK (4):** Kriptos, Rapid Acceleration Partners, The Digital Economist, Credit Union of New Jersey.
+
+**❌ Purge from CRM — DISQUALIFIED (9):** Icon (→ICON plc), MultiAd (→Syndigo), Litmus (→Validity), Bio-Optronics (→Advarra), Fishbowl (→Glassdoor), Verivo (defunct 2015), Origin AI (→ADT, Feb 2026), B3 Group (→Octo→IBM), ClickSquared (→Zeta, 2014).
+
+**Hit rate insight:** 30% of even your *best-scoring* leads were dead records (acquired/defunct). Expect a similar or worse staleness rate deeper in the list — verify acquisition status before any outreach sequence, and consider a bulk data-refresh of the CRM.
+
+## Recommended outreach angles by segment (A-list beyond the top 30)
+
+- **IT services / consulting (48 A-list accounts):** project-based staffing churn → onboarding/offboarding automation + device management for client-site laptops.
+- **Software / tech (42):** remote multi-state teams → state tax registration, IT provisioning, app access control.
+- **Financial services / investment (23):** compliance reporting, SOC2-friendly access controls, M&A entity consolidation (the True North pattern repeats across RIAs).
+- **Advertising / marketing (14):** freelancer + W2 mixes → contractor payments alongside payroll.
+- **Staffing & recruiting (8):** high-volume hiring → onboarding automation is the whole pitch.
