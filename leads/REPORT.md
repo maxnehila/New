@@ -223,3 +223,19 @@ LinkedIn-indexed HR/People contacts were researched for every verified call-list
 - **Korbyt — Jim Brown, Director of People & Culture** (aggregator-only, verify) — the Paylocity displacement conversation has a named owner.
 - **Io.net's only HR person sits in Dubai** — for the US pitch, enter via the CEO/COO office.
 - **Vault Insurance's HR team isn't search-indexed** at all despite ~246 EE — use a paid contact database or open via the CEO/President's office.
+
+---
+
+## Tier 2 Batch 2 — ranks 48-59 verified (June 12 2026)
+
+Five callable leads with named contacts (3 with HR-titled contacts):
+
+1. **Erbe USA — 🔥 STRONG** — Derrick Roy, SPHR, VP of HR (Atlanta). 144-EE US arm of German medtech with autonomous local HR and a nationwide field sales force (multi-state payroll). Probe parent-company autonomy in discovery.
+2. **Alloy Partners (CRM: "High Alpha Innovation") — 🔥 STRONG** — Melanie Kruger, Chief People Officer (Indianapolis). Rebranded Mar 2025. Venture builder that constantly spins up new entities needing payroll/benefits/IT from day one — textbook multi-entity play, with portfolio-cascade potential.
+3. **Proof Media Mix — 🔥 STRONG** — Valerie Corcoran, Director of HR & Admin Ops (Metairie, LA — verify before emailing, ZoomInfo-sourced). 83-EE experiential agency across KY/NY/Denver with event-staff churn; no HRIS incumbent visible.
+4. **ITS (Internet Travel Solutions) — ✅ GOOD** — no HR title; CFO Jennifer Lichner + SVP Ops Janet Rickman (Dallas, from company site). 65-EE travel-tech firm.
+5. **LVLY — ✅ GOOD** — no HR title; new President Cara Cutrone (Brooklyn) = tooling re-evaluation window. 51-EE creative studio with freelancer-heavy model (contractor payments angle).
+
+Honorable mention: Winona IT (GOOD — real Indiana MSP, greenfield HR tooling, but headcount may be <50; owner Michael Pahl).
+
+Disqualified this batch (4 of 12 — 33% staleness): Dental Medical Careers (real headcount <10), Illume Advising (acquired by E Source May 2025), NYU McSilver (institute inside NYU), BPO Solutions 24x7 (residential-address shell, offshore network, dead site). Weak: mKonnekt (Hyderabad workforce), Blue Coding (Santo Domingo operation behind Miami shell).
