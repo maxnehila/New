@@ -201,3 +201,25 @@ New qualification lens applied: where do the actual decision-makers sit and work
 5. **Remington Medical** — GOOD + HIGH. 132 EE, Alpharetta GA leadership, US+Asia workforce, product momentum (FDA clearance Nov 2025); weakest trigger of the five but fully US-workable.
 
 Dropped: Vivanti (decision-makers in Sydney/Bengaluru). Icode remains honorable mention (Eastern time but anonymous leadership).
+
+---
+
+## HR Contact Sweep (June 12 2026)
+
+LinkedIn-indexed HR/People contacts were researched for every verified call-list company (via search engines and aggregators that index LinkedIn — ZoomInfo, RocketReach, TheOrg, LeadIQ — plus company websites). Full sheet in `hr_contacts.csv`; `hr_contacts` column added to the scored CSV. Aggregator data lags LinkedIn by 6–18 months, so confidence is flagged per contact; verify Low/Medium-confidence names on LinkedIn before sequencing.
+
+**Best-verified contacts (on company's own site or multi-source):**
+- True North Advisors — Bernadeta Thomas, SPHR, Director of HR (Dallas)
+- Capitol Forum — Susan Gravatt, Director of Recruiting & Events (DC) + CFO Trevor Baine
+- Olon USA — Monica Thayer, HR Director + Dorothie Okleson, VP Finance (Concord, OH)
+- Remington Medical — Kelly Rawlins, Director of HR, CEO-direct report (Alpharetta, GA)
+- Autobooks — Brian DeLeon, Director of HR & Talent Acquisition (Detroit)
+- Coranet — no HR title exists; CFO Cathy Cammarano explicitly owns comp/benefits per company site
+- FundGuard — VP HR Li Carmel sits in Tel Aviv; Melissa Monahan (Boston) is the US-side HR contact
+
+**Notable signals from the sweep:**
+- **Arena AI's Head of Talent seat appears vacant** — Lisa Vance left for Two Sigma in Sept 2025 and aggregators still list her (proof of aggregator lag). A vacant talent seat at a post-Series B company hiring 29 roles is itself a timing signal; route via Chief of Staff Aaron Zelinger.
+- **TotalTek has a CPO** ("Nick A.", ex-Verizon/AT&T HR — last name abbreviated on aggregators, verify on their team page) plus Recruiting Manager Matt Gehrman.
+- **Korbyt — Jim Brown, Director of People & Culture** (aggregator-only, verify) — the Paylocity displacement conversation has a named owner.
+- **Io.net's only HR person sits in Dubai** — for the US pitch, enter via the CEO/COO office.
+- **Vault Insurance's HR team isn't search-indexed** at all despite ~246 EE — use a paid contact database or open via the CEO/President's office.
